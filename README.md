@@ -36,8 +36,7 @@ Hoja de vida
             <p>Correo personal: kbrg.802@gmail.com</p>
             <p>Correo carrera: rkendal@ucompensar.edu.co</p>
             <p>Teléfono: +57 3027899717</p>
-
-            <section id="Perfil">
+<section id="Perfil">
             <h2>Perfil</h2>
             <p><a href="https://www.linkedin.com" target="_blank">LinkedIn</a></p>
             <a href="Hoja de Vida Kendal.pdf" download> Hoja de Vida</a>
@@ -57,19 +56,26 @@ Hoja de vida
               <p> <a href="Kendal Baruc Rozo Galindo-IT ESSENTIALS 20-certificate.pdf" download> Kendal BarucRozo Galindo-IT ESSENTIALS 20-certificate.pdf</a>
               <p> <a href="Kendal Baruc Rozo Galindo-FPS_NETWORKING_2-certificate.pdf" download> Kendal BarucRozo Galindo-FPS_NETWORKING_2-certificate.pdf</a>
 
-        </section>
+
+</section> 
         <section id="laboral">
             <h2>Experiencia Laboral</h2>
             <p>1.5 años de experiencia en atención al cliente en un restaurante de comida china como mesero y coordinador de salón</p>
             <p>Habilidades: Responsable, amable, buen diálogo, buena adaptabilidad, diciplinado y resiliente</p>
         </section>
         
-          <section id="Sobre Mi">
+           <section id="Sobre Mi"> 
         <p><a href="file:///C:/Users/kbrg8/Downloads/Momento%202/LEnguajhe%20de%20programacion/Hojadevida/Sobremi.html#tecnologia" target="_blank">Sobre mi</a></p>
-            <h2>Sobre Mi </h2>
+            <h2>Sobre Mi </h2> 
             <p> "Soy un estudiante comprometido y autónomo con una sólida experiencia en relaciones sociales, y habilidades destacadas en tecnologías de hardware, software de computadoras y redes me gusta mucho el deporte
-            </main>
-            <footer>
+            </main> 
+            <footer> 
                 <p>&copy; 2024 Kendal Baruc Rozo Galindo</p>
-            </footer>
+            </footer>    
+            
 </html>
+         ![Traje](https://github.com/Khevinzhito/Hojadevida/assets/171200208/d456fe0d-887e-495f-b512-fb08056aaa11)
+![Rockero](https://github.com/Khevinzhito/Hojadevida/assets/171200208/2e440bf3-283e-4c42-a59a-7f51ec5e02ba)
+![Perfil2](https://github.com/Khevinzhito/Hojadevida/assets/171200208/e8b415e1-830d-42de-bff0-5203b671dcc3)
+![Perfil1](https://github.com/Khevinzhito/Hojadevida/assets/171200208/7ad4bdea-c9ab-4cdb-8e5c-b03f798d25d1)
+![Foto](https://github.com/Khevinzhito/Hojadevida/assets/171200208/dc195847-6858-4977-8f92-cecf177e32e0)
