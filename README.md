@@ -55,8 +55,7 @@ Hoja de vida
               <p> <a href="Kendal Baruc Rozo Galindo-Software y TI.pdf" download> Kendal Baruc Rozo Galindo-Software y TI.pdf</a>
               <p> <a href="Kendal Baruc Rozo Galindo-IT ESSENTIALS 20-certificate.pdf" download> Kendal BarucRozo Galindo-IT ESSENTIALS 20-certificate.pdf</a>
               <p> <a href="Kendal Baruc Rozo Galindo-FPS_NETWORKING_2-certificate.pdf" download> Kendal BarucRozo Galindo-FPS_NETWORKING_2-certificate.pdf</a>
-
-
+                
 </section> 
         <section id="laboral">
             <h2>Experiencia Laboral</h2>
@@ -64,16 +63,6 @@ Hoja de vida
             <p>Habilidades: Responsable, amable, buen diálogo, buena adaptabilidad, diciplinado y resiliente</p>
         </section>
            <section id="Sobre Mi"> 
-![Urbano](https://github.com/Khevinzhito/Hojadevida/assets/171200208/99d0047d-6a39-40ec-8c06-bf7d1f01e58c)
-![Tecnologia2](https://github.com/Khevinzhito/Hojadevida/assets/171200208/d04e23da-c6ab-4308-9055-4699bb182347)
-![Tecnologia1](https://github.com/Khevinzhito/Hojadevida/assets/171200208/94a8d707-1dc5-4eee-9ee0-ea35d4f8df39)
-![Tecnologia](https://github.com/Khevinzhito/Hojadevida/assets/171200208/66336b3a-b339-479d-87f9-2746fa4c86ac)
-![Rock](https://github.com/Khevinzhito/Hojadevida/assets/171200208/0a6a47e7-b10e-42a3-9204-256f189b2ac1)
-![Pop](https://github.com/Khevinzhito/Hojadevida/assets/171200208/8513f6cc-c43b-4b0c-8e88-956ec4f1d8a4)
-![Deportes2](https://github.com/Khevinzhito/Hojadevida/assets/171200208/f2faa918-bfd0-429e-9ca9-dc7c8a8a7e20)
-![Deportes1](https://github.com/Khevinzhito/Hojadevida/assets/171200208/d17444f9-0249-4b97-8b26-53b2beb7e510)
-![Deportes](https://github.com/Khevinzhito/Hojadevida/assets/171200208/97dd99fe-fcd4-4631-af1d-b983a88509e3)
-
         <p><a href="file:///C:/Users/kbrg8/Downloads/Momento%202/LEnguajhe%20de%20programacion/Hojadevida/Sobremi.html#tecnologia" target="_blank">Sobre mi</a></p>
             <h2>Sobre Mi </h2> 
             <p> "Soy un estudiante comprometido y autónomo con una sólida experiencia en relaciones sociales, y habilidades destacadas en tecnologías de hardware, software de computadoras y redes me gusta mucho el deporte
