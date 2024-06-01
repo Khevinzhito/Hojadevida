@@ -63,7 +63,8 @@ Hoja de vida
             <p>Habilidades: Responsable, amable, buen diálogo, buena adaptabilidad, diciplinado y resiliente</p>
         </section>
            <section id="Sobre Mi"> 
-        <p><a href="file:///C:/Users/kbrg8/Downloads/Momento%202/LEnguajhe%20de%20programacion/Hojadevida/Sobremi.html#tecnologia" target="_blank">Sobre mi</a></p>
+        <p><a href="![Tecnologia](https://github.com/Khevinzhito/Hojadevida/assets/171200208/092a31fd-966b-48ef-abcc-8cc8f3edca49)
+">Sobre mi</a></p>
             <h2>Sobre Mi </h2> 
             <p> "Soy un estudiante comprometido y autónomo con una sólida experiencia en relaciones sociales, y habilidades destacadas en tecnologías de hardware, software de computadoras y redes me gusta mucho el deporte
             </main> 
