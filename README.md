@@ -63,7 +63,6 @@ Hoja de vida
             <p>1.5 años de experiencia en atención al cliente en un restaurante de comida china como mesero y coordinador de salón</p>
             <p>Habilidades: Responsable, amable, buen diálogo, buena adaptabilidad, diciplinado y resiliente</p>
         </section>
-        
            <section id="Sobre Mi"> 
         <p><a href="file:///C:/Users/kbrg8/Downloads/Momento%202/LEnguajhe%20de%20programacion/Hojadevida/Sobremi.html#tecnologia" target="_blank">Sobre mi</a></p>
             <h2>Sobre Mi </h2> 
@@ -74,4 +73,3 @@ Hoja de vida
             </footer>    
             
 </html>
-   
