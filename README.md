@@ -74,8 +74,4 @@ Hoja de vida
             </footer>    
             
 </html>
-         ![Traje](https://github.com/Khevinzhito/Hojadevida/assets/171200208/d456fe0d-887e-495f-b512-fb08056aaa11)
-![Rockero](https://github.com/Khevinzhito/Hojadevida/assets/171200208/2e440bf3-283e-4c42-a59a-7f51ec5e02ba)
-![Perfil2](https://github.com/Khevinzhito/Hojadevida/assets/171200208/e8b415e1-830d-42de-bff0-5203b671dcc3)
-![Perfil1](https://github.com/Khevinzhito/Hojadevida/assets/171200208/7ad4bdea-c9ab-4cdb-8e5c-b03f798d25d1)
-![Foto](https://github.com/Khevinzhito/Hojadevida/assets/171200208/dc195847-6858-4977-8f92-cecf177e32e0)
+   
